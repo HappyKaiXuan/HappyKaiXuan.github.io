@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://happyk.xyz</id>
     <title>HappyK</title>
-    <updated>2020-06-14T01:17:05.436Z</updated>
+    <updated>2020-06-14T01:20:23.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://happyk.xyz"/>
     <link rel="self" href="https://happyk.xyz/atom.xml"/>
-    <subtitle>与众不同吗？其实大家都是平凡人</subtitle>
+    <subtitle>我只是一个陌生人，在你记忆中的匆匆过客，不值得你留念...</subtitle>
     <logo>https://happyk.xyz/images/avatar.png</logo>
     <icon>https://happyk.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, HappyK</rights>
