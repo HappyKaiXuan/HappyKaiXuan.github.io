@@ -2,40 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://happyk.xyz</id>
     <title>HappyK</title>
-    <updated>2020-06-14T01:21:20.589Z</updated>
+    <updated>2020-07-14T16:02:02.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://happyk.xyz"/>
     <link rel="self" href="https://happyk.xyz/atom.xml"/>
-    <subtitle>我只是一个陌生人，在你记忆中的匆匆过客，不值得你留念...</subtitle>
+    <subtitle>学习绘画中····</subtitle>
     <logo>https://happyk.xyz/images/avatar.png</logo>
     <icon>https://happyk.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, HappyK</rights>
     <entry>
-        <title type="html"><![CDATA[是夏夜的雷声和雨声]]></title>
-        <id>https://happyk.xyz/post/rain/</id>
-        <link href="https://happyk.xyz/post/rain/">
+        <title type="html"><![CDATA[日記 - 7月14日]]></title>
+        <id>https://happyk.xyz/post/ri-ji-7-yue-14-ri/</id>
+        <link href="https://happyk.xyz/post/ri-ji-7-yue-14-ri/">
         </link>
-        <updated>2020-06-14T00:57:32.000Z</updated>
-        <content type="html"><![CDATA[<p>下雨了，伴随着那夕阳的落下<br>
-坐在家门口，观望着<br>
-雨水时不时溅进，滴洒在脸上<br>
-凉丝丝的，却很有温度<br>
-母亲从屋里走来，拿着刚切好的西瓜<br>
-“该睡了。”<br>
-洗好澡，躺在床上，倾听着窗外的声音<br>
-很轻，很柔和，仿佛身处于大自然的宁静之中....<br>
-“那是什么声音啊？”<br>
-是夏夜的雷声和雨声</p>
-<p>放学了，伴随着那下课铃的响起<br>
-趴在桌子上，沉思着<br>
-烦恼时不时溅进，打乱了思绪<br>
-烦闷闷的，却渴望平静<br>
-老师从门口走来，拿着没改完的试卷<br>
-“该走了。”<br>
-洗好澡，坐在桌前，书写着枯燥的作业<br>
-很吵，很刺耳，仿佛身处于大城市的喧嚣之中....<br>
-“那是什么声音啊！”<br>
-是夏夜的雷声和雨声</p>
+        <updated>2020-07-14T15:58:23.000Z</updated>
+        <content type="html"><![CDATA[<p>和ky听了好几天的歌，看着车外的风景，喝着可乐吃着薯片，<br>
+日子每一天都是这样多好啊<br>
+今天又干了些什么呢</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日記 - 7月11日]]></title>
+        <id>https://happyk.xyz/post/ri-ji-7-yue-11-ri/</id>
+        <link href="https://happyk.xyz/post/ri-ji-7-yue-11-ri/">
+        </link>
+        <updated>2020-07-10T16:00:56.000Z</updated>
+        <content type="html"><![CDATA[<p>开始认真学习美术了<br>
+今天就从写生开始吧！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日記 - 7月10日]]></title>
+        <id>https://happyk.xyz/post/ri-ji-7-yue-10-ri/</id>
+        <link href="https://happyk.xyz/post/ri-ji-7-yue-10-ri/">
+        </link>
+        <updated>2020-07-10T15:55:24.000Z</updated>
+        <content type="html"><![CDATA[<p>晚上又做噩梦了，梦见自己在水里要淹死了www？<br>
+最后实在撑不住就醒了，凌晨3点....<br>
+急促的呼吸了几下发现身上全是汗<br>
+大概被被子盖住了罢....大概吧 😐</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日記 - 7月9日]]></title>
+        <id>https://happyk.xyz/post/ri-ji-7-yue-9-ri/</id>
+        <link href="https://happyk.xyz/post/ri-ji-7-yue-9-ri/">
+        </link>
+        <updated>2020-07-09T15:48:37.000Z</updated>
+        <content type="html"><![CDATA[<p>嗯....断了8天的日记<br>
+昨天晚上还做了噩梦，梦见自己在学校门口的天台跳楼了，但却看得见眼前的景象<br>
+只见我摔得血肉模糊，五脏洒在地上，路过的行人也毫不关心....大概命不长了吧:|<br>
+今天中午又做了一样的梦，但是手机响了，当时脑子里想着自己都死了为什么还要起来啊<br>
+结果发现是Bread打电话，我也没有死了，还要继续迎接痛苦的明天呢</p>
+<p>（补：下午不知道为什么感觉闷闷的吸不上气 x(</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日記 - 7月1日]]></title>
+        <id>https://happyk.xyz/post/rj-20-7-1/</id>
+        <link href="https://happyk.xyz/post/rj-20-7-1/">
+        </link>
+        <updated>2020-07-01T15:45:11.000Z</updated>
+        <content type="html"><![CDATA[<p>今天找到了喜欢的画风！😃<br>
+SUV老师真是太厉害了:D永远单推！<br>
+suvweb.jp SUV老师的个人主页www!<img src="https://happyk.xyz/post-images/1594741683707.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
