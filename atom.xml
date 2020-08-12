@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://happyk.xyz</id>
     <title>HappyK</title>
-    <updated>2020-07-14T16:04:01.318Z</updated>
+    <updated>2020-08-12T15:27:20.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://happyk.xyz"/>
     <link rel="self" href="https://happyk.xyz/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://happyk.xyz/images/avatar.png</logo>
     <icon>https://happyk.xyz/favicon.ico</icon>
     <rights>All rights reserved 2020, HappyK</rights>
+    <entry>
+        <title type="html"><![CDATA[HappyK-Studio 停止活动公示]]></title>
+        <id>https://happyk.xyz/post/happyk-studio-ting-zhi-huo-dong-gong-shi/</id>
+        <link href="https://happyk.xyz/post/happyk-studio-ting-zhi-huo-dong-gong-shi/">
+        </link>
+        <updated>2020-08-12T15:26:13.000Z</updated>
+        <content type="html"><![CDATA[<p>HappyK-Studio即日停止一切活动，真的非常抱歉，但是小川真的没有精力再去做了，由于一些生活的不可抗力。当然了，网络世界应该早点看清才对</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日記 - 7月14日]]></title>
         <id>https://happyk.xyz/post/ri-ji-7-yue-14-ri/</id>
